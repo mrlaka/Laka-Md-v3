@@ -4,6 +4,6 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "Session id",
+SESSION_ID: process.env.SESSION_ID || "𝐋ᴀᴋᴀ-𝐌ᴅ=c0JAhZ4C#656Cs3ZIlqmygt9R-arN3yEDbsLeguXdWHufv-Ek2ns",
 POSTGRESQL_URL: process.env.POSTGRESQL_URL === undefined ? 'postgresql://postgres:lakamd@db.ndduyrkebubwlbwiljee.supabase.co:5432/postgres' : process.env.POSTGRESQL_URL
 };
