@@ -1,12 +1,12 @@
 {
-  "name": "LAKA-MD",
+  "name": "𝐃   𓃵",
   "description": "Laka Md in powerful WhatsApp Bot in Sri Lanka made by lashmitha 🐣🪄💖",
   "logo": "https://i.ibb.co/S7dLJ09m/image-1741156199535.jpg",
   "keywords": ["lakamd", "bot", "whatsapp bot", "multi device", "laka-md"],
   "success_url": "/",
 
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {𝐋ᴀᴋᴀ-𝐌ᴅ=BgRWHBRY#9nNORWViHXnBfJhuI0owDrsz7SoIdSGvjrPEgFj3yEs
             "description": "Type the Session-ID you got from scaning QR",
             "required": true,
             "value": ""
